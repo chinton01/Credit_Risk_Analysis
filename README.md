@@ -1,7 +1,7 @@
 # Credit_Risk_Analysis
 ## Overiview:
 Overview of the loan prediction risk analysis:
-
+The purpose of this project is to perform an analysis using machine learning to predict credit risk. Multiple algorithms were used to oversample and undersample the data.
 The purpose of this analysis is well defined (4 pt)
 ##### Results:
 
